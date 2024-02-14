@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+I'm currently a student in Web Development based in Columbus, OH. 
+
+## Languages & Tools
+
+## Socials
 
 <!--
 **linohlyn/linohlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

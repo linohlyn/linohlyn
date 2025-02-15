@@ -1,10 +1,13 @@
 # Hi there 👋
-I'm currently a student in Web Development based in Columbus, OH. 
+I am currently a student in Web Development based in Columbus, OH. 
 
 ## Languages & Tools
+**Languages**: Java, JavaScript, HTML, CSS, PHP, SQL, Python  
+**Frameworks**: Laravel, jQuery  
+**Developer Tools**: Git, Visual Studio Code, MySQL  
 
 ## Socials
-
+[LinkedIn](www.linkedin.com/in/lindsey-sheets-480926a0)
 <!--
 **linohlyn/linohlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 I am currently a student in Web Development based in Columbus, OH. 
 
 ## Languages & Tools
-**Languages**: Java, JavaScript, HTML, CSS, PHP, SQL, Python  
+**Languages**: Java, JavaScript, HTML, CSS, PHP, SQL, Python, Wordpress  
 **Frameworks**: Laravel, jQuery  
 **Developer Tools**: Git, Visual Studio Code, MySQL  
 
